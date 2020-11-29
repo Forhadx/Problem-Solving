@@ -1,3 +1,3 @@
 # Problem-Solving
 
-- I solve some offline problems in codeforce.  
+- Some codeforces offline problems solve.  
