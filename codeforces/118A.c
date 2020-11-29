@@ -12,6 +12,5 @@ int main()
         printf(".%c",string[i]);
       }
    }
- 
    return  0;
 }
