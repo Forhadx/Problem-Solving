@@ -1,3 +1,3 @@
-# Problem-Solving
+# Problem solving
 
-- Some codeforces offline problems solve.  
+Some code forces and URI offline problems solutions which I had solved when I study in 3rd in university.
