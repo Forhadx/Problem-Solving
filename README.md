@@ -1,3 +1,5 @@
 # Problem solving
 
-Some code forces and URI offline problems solutions which I had solved when I study in 3rd in university.
+    - [Leetcode] (https://leetcode.com/forhadsh1/)
+    - [Codeforces] (https://codeforces.com/profile/FORHAD_0)
+    - [Uri] (https://www.beecrowd.com.br/judge/en/profile/133186)
